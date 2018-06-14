@@ -31,7 +31,7 @@ In this code challenge you should create a 2-way SMS app that can be accessed on
 
 ### Task Workflow:
 1. User ends an SMS with any content text.
-2. You Short code App responds with the Message: "Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black."
+2. Your Short code App responds with the Message: "Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black."
 3. Add to the README.md a small guide of how to access your serive on the Simulator.
 4. Ensure your service is accessible online. You can use the free tiers of [Heroku](https://www.heroku.com/) or [Openshift](https://www.openshift.com/) or other platform of choice.
 
