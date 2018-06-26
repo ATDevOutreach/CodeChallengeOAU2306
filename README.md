@@ -1,6 +1,6 @@
 # 2 Way SMS Code Challenge: Obafemi Awolowo University, Ife
-## Due: 23rd June,2018 or Earlier
-#### This code challenge is due on the 23rd of June,2018 or earlier. 
+## Due: 30th June,2018 or Earlier
+#### This code challenge is due on the 30th of June,2018 or earlier. 
 
 ## Simple Unchanging Rules
 The code challenge is and will always be judged using the following criteria
@@ -24,7 +24,7 @@ You can participate on as many challenges as you wish:
 
 ## Code Challenge Bounty:
   - First Prizes: Swag for the first 30 successful participants
-  - Secondary Prizes: Airtime for successful pull requests before or on 23rd June, 2018
+  - Secondary Prizes: Airtime for successful pull requests before or on 30th June, 2018
 
 ## Task
 In this code challenge you should create a 2-way SMS app that can be accessed on the Sandbox. The 2-Way SMS App should allow users to send an SMS from their simulator to your short code, and get a simple reply.
